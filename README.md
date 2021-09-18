@@ -1,5 +1,5 @@
 # coinmarketcapchallenge
-This repository contains the tests for Market Cap Web Application using selenium webdriver with Cucumber and Junit4 and allure reporting
+This repository contains the tests for Market Cap Web Application using selenium webdriver with Cucumber and Junit4 and extent reporting
 
 # CodeGuidelines
 Code should be clean and kept to the same standard as production code - make sure unused variables and methods are removed, code is correctly formatted, with no random newlines and whitespaces. 
